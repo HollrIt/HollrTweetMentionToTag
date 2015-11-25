@@ -9,7 +9,7 @@ fetch('https://hollrit.azurewebsites.net/api/Hollr', {
                 userId: "your id here",
                 mobileServiceAuthenticationToken: "your token here"
             },
-            tag: 'dNewTech',
+            tag: 'TagThatYouOwn',
             text: input.theText
         })
     })
